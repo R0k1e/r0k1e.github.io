@@ -25,32 +25,32 @@ I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Scie
 # 📝 Publications 
 
 ## ⌛️ 2025
-- <span class="conference-badge">arxiv preprint</span>
+- <span class="badge">arxiv preprint</span>
 [LLM$\times$MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources](https://arxiv.org/abs/2504.05732)
 **Haoyu Wang**, Yujia Fu, Zhu Zhang, Shuo Wang, Zirui Ren, Xiaorong Wang, Zhili Li, Chaoqun He, Bo An, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
 
-- <span class="conference-badge">ACL 2025</span>
+- <span class="badge">ACL 2025</span>
 [LLMxMapReduce: An Effective Divide-and-Conquer Framework for Long-Sequence Processing](#)
 Zihan Zhou, Chong Li, Xinyi Chen, Yu Chao, Shuo Wang, Zhili Li, **Haoyu Wang**, Rongqiao An, Qi Shi, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
 
 ## ⌛️ 2024
-- <span class="conference-badge">ACL 2024</span>
+- <span class="badge">ACL 2024</span>
 [UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset.](https://arxiv.org/abs/2402.19142)
 **Haoyu Wang**, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, Yuzhuang Xu, Zhenghao Liu, Liner Yang, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/OpenBMB/UltraLink)
 
-- <span class="conference-badge">CCL 2024</span>
+- <span class="badge">CCL 2024</span>
 [SpanCS: Span-Level Code-Switching for Cross-Lingual Program Synthesis](https://aclanthology.org/2024.ccl-1.1/)
 Qingfu Zhu, Shiqi Zhou, Shuo Wang, Zhiming Zhang, **Haoyu Wang**, Qiguang Chen, Wanxiang Che
 
-- <span class="conference-badge">arxiv preprint</span>
+- <span class="badge">arxiv preprint</span>
 [OMGEval: An Open Multilingual Generative Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2402.03669)
 Yang Liu, Meng Xu, Shuo Wang, Liner Yang, **Haoyu Wang**, Zhenghao Liu, Cunliang Kong, Yun Chen, Yang Liu, Maosong Sun, Erhong Yang
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/blcuicall/OMGEval)
 
-- <span class="conference-badge">WWW 2024</span><span style="color:red;">(Oral)</span>
+- <span class="badge">WWW 2024</span><span style="color:red;">(Oral)</span>
 [Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation](https://dl.acm.org/doi/10.1145/3589334.3645535)
 Bo Yan, Yang Cao, **Haoyu Wang**, Wenchuan Yang, Junping Du, Chuan Shi
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/BUPT-GAMMA/FedHGNN)
