@@ -25,16 +25,16 @@ I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Scie
 # 📝 Publications 
 
 ## ⌛️ 2025
-- <span class="badge">arxiv preprint</span>
+- `arxiv preprint`
 [LLM$\times$MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources](https://arxiv.org/abs/2504.05732)
 **Haoyu Wang**, Yujia Fu, Zhu Zhang, Shuo Wang, Zirui Ren, Xiaorong Wang, Zhili Li, Chaoqun He, Bo An, Zhiyuan Liu, Maosong Sun
-[![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
+[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/thunlp/LLMxMapReduce)
 <!-- <span class='show_paper_citations' data='4qZjdo8AAAAJ:qjMakFHDy7sC'></span> -->
 
 - <span class="badge">ACL 2025</span>
 [LLM$\times$MapReduce: An Effective Divide-and-Conquer Framework for Long-Sequence Processing](#)
 Zihan Zhou, Chong Li, Xinyi Chen, Yu Chao, Shuo Wang, Zhili Li, **Haoyu Wang**, Rongqiao An, Qi Shi, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun
-[![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
+[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/thunlp/LLMxMapReduce)
 
 ## ⌛️ 2024
 - <span class="badge">ACL 2024</span>
@@ -58,7 +58,7 @@ Bo Yan, Yang Cao, **Haoyu Wang**, Wenchuan Yang, Junping Du, Chuan Shi
 
 # 🎖 Honors and Awards
 - *2025.05* Outstanding Graduate Award of Beijing University of Posts and Telecommunications
-- *2024.12* China National Scholarship (Undergraduate) (Top 1%). 
+- *2024.12* National Scholarship (Undergraduate) (Top 1%). 
 
 # 📖 Educations
 - *2025.08 - Present*, Ph.D., College of Computing and Data Science, Nanyang Technological University, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/).
