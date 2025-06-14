@@ -28,8 +28,7 @@ I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Scie
 - <span class="badge">arxiv preprint</span>
 [LLM$\times$MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources](https://arxiv.org/abs/2504.05732)
 **Haoyu Wang**, Yujia Fu, Zhu Zhang, Shuo Wang, Zirui Ren, Xiaorong Wang, Zhili Li, Chaoqun He, Bo An, Zhiyuan Liu, Maosong Sun
-[![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce) 
-<span class='show_paper_citations' data='4qZjdo8AAAAJ:qjMakFHDy7sC'></span>
+[![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce) <span class='show_paper_citations' data='4qZjdo8AAAAJ:qjMakFHDy7sC'></span>
 
 - <span class="badge">ACL 2025</span>
 [LLM$\times$MapReduce: An Effective Divide-and-Conquer Framework for Long-Sequence Processing](#)
