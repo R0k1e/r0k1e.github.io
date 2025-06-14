@@ -25,7 +25,8 @@ I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Scie
 # 📝 Publications 
 
 ## ⌛️ 2025
-- <span class="conference-badge">arxiv preprint</span>
+- 
+<span class="badge">arxiv preprint</span>
 [LLM$\times$MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources](https://arxiv.org/abs/2504.05732)
 **Haoyu Wang**, Yujia Fu, Zhu Zhang, Shuo Wang, Zirui Ren, Xiaorong Wang, Zhili Li, Chaoqun He, Bo An, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
