@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyu Wang (王昊钰)"
-description              : A Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore"
+description              : A Ph.D. student at Nanyang Technological University
 repository               : "R0k1e/r0k1e.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyu Wang (王昊钰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore."
+  bio              : 
   location         : "Singapore"
   employer         :
   pubmed           : 

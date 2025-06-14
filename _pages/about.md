@@ -16,10 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/), and concurrently join the 2050 Research Lab at Skywork AI as a Research Engineer. I received my Bachelor degree of Computer Science and Technology from Beijing University of Posts and Telecommunications in June 2021.
 
-My research interest focus on large language models and gained <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> as shown by my <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>Google Scholar</a>.
-
+I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/), and concurrently join the 2050 Research Lab at Skywork AI as a Research Engineer. I received my Bachelor degree of Computer Science and Technology from Beijing University of Posts and Telecommunications in June 2021. My research interest focus on large language models and its applications.
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 Release LLMxMapReduce-V2 in [Arxiv](https://arxiv.org/abs/2504.05732) and [Github](https://github.com/thunlp/LLMxMapReduce), an extremely-long article generation algorithm for survey writing. You could try it in [SurveyGO](https://surveygo.modelbest.cn/)!
@@ -31,7 +29,7 @@ My research interest focus on large language models and gained <a href='https://
 **Haoyu Wang**, Yujia Fu, Zhu Zhang, Shuo Wang, Zirui Ren, Xiaorong Wang, Zhili Li, Chaoqun He, Bo An, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
 
-- <span class="conference-badge">ACL 2025</span>
+- <span class="badge">ACL 2025</span>
 [LLMxMapReduce: An Effective Divide-and-Conquer Framework for Long-Sequence Processing](#)
 Zihan Zhou, Chong Li, Xinyi Chen, Yu Chao, Shuo Wang, Zhili Li, **Haoyu Wang**, Rongqiao An, Qi Shi, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
