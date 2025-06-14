@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haoyu Wang (王昊钰)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.png"
   bio              : 
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=DhtAFkwAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=4qZjdo8AAAAJ"
   email            : "Haoyu_Wang_1103@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

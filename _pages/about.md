@@ -20,7 +20,7 @@ redirect_from:
 I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/), and concurrently join the 2050 Research Lab at Skywork AI as a Research Engineer. I received my Bachelor degree of Computer Science and Technology from Beijing University of Posts and Telecommunications in June 2021. My research interest focus on large language models and its applications.
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Release LLMxMapReduce-V2 in [Arxiv](https://arxiv.org/abs/2504.05732) and [Github](https://github.com/thunlp/LLMxMapReduce), an extremely-long article generation algorithm for survey writing. You could try it in [SurveyGO](https://surveygo.modelbest.cn/)!
+- *2025.04*: &nbsp;🎉🎉 Release LLMxMapReduce-V2 in [arxiv](https://arxiv.org/abs/2504.05732) and [Github](https://github.com/thunlp/LLMxMapReduce), an extremely-long article generation algorithm for survey writing. You could try it in [SurveyGO](https://surveygo.modelbest.cn/)!
 
 # 📝 Publications 
 
@@ -28,10 +28,11 @@ I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Scie
 - <span class="badge">arxiv preprint</span>
 [LLM$\times$MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources](https://arxiv.org/abs/2504.05732)
 **Haoyu Wang**, Yujia Fu, Zhu Zhang, Shuo Wang, Zirui Ren, Xiaorong Wang, Zhili Li, Chaoqun He, Bo An, Zhiyuan Liu, Maosong Sun
-[![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
+[![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce) 
+<span class='show_paper_citations' data='4qZjdo8AAAAJ:qjMakFHDy7sC'></span>
 
 - <span class="badge">ACL 2025</span>
-[LLMxMapReduce: An Effective Divide-and-Conquer Framework for Long-Sequence Processing](#)
+[LLM$\times$MapReduce: An Effective Divide-and-Conquer Framework for Long-Sequence Processing](#)
 Zihan Zhou, Chong Li, Xinyi Chen, Yu Chao, Shuo Wang, Zhili Li, **Haoyu Wang**, Rongqiao An, Qi Shi, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
 
@@ -61,7 +62,7 @@ Bo Yan, Yang Cao, **Haoyu Wang**, Wenchuan Yang, Junping Du, Chuan Shi
 
 # 📖 Educations
 - *2025.08 - Present*, Ph.D., College of Computing and Data Science, Nanyang Technological University, supervised by Prof. Bo An.
-- *2021.09 - 2025.06*, B.S, School of Computer Science and Technology (National Demonstration Software College), Beijing University of Posts and Telecommunications
+- *2021.09 - 2025.06*, B.S, School of Computer Science and Technology (National Demonstration Software College), Beijing University of Posts and Telecommunications.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
