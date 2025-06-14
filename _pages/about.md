@@ -21,6 +21,7 @@ I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Scie
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 Release LLMxMapReduce-V2 in [Arxiv](https://arxiv.org/abs/2504.05732) and [Github](https://github.com/thunlp/LLMxMapReduce), an extremely-long article generation algorithm for survey writing. You could try it in [SurveyGO](https://surveygo.modelbest.cn/)!
+
 # 📝 Publications 
 
 ## ⌛️ 2025
@@ -29,7 +30,7 @@ I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Scie
 **Haoyu Wang**, Yujia Fu, Zhu Zhang, Shuo Wang, Zirui Ren, Xiaorong Wang, Zhili Li, Chaoqun He, Bo An, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
 
-- <span class="badge">ACL 2025</span>
+- <div class="badge">ACL 2025</div>
 [LLMxMapReduce: An Effective Divide-and-Conquer Framework for Long-Sequence Processing](#)
 Zihan Zhou, Chong Li, Xinyi Chen, Yu Chao, Shuo Wang, Zhili Li, **Haoyu Wang**, Rongqiao An, Qi Shi, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/thunlp/LLMxMapReduce)
