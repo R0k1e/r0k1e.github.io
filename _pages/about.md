@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/), and concurrently join the 2050 Research Lab at Skywork AI as a Research Engineer. I received my Bachelor degree of Computer Science and Technology from Beijing University of Posts and Telecommunications in June 2021. My research interest focus on large language models and its applications.
+I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/), and concurrently join the 2050 Research Lab at Skywork AI as a Research Engineer. I received my Bachelor degree of Computer Science and Technology from Beijing University of Posts and Telecommunications in June 2021. My research interest focus on Agentic RL, Multi-Agent System and their applications.
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 Release LLMxMapReduce-V2 in [arxiv](https://arxiv.org/abs/2504.05732) and [Github](https://github.com/thunlp/LLMxMapReduce), an extremely-long article generation algorithm for survey writing. You could try it in [SurveyGO](https://surveygo.modelbest.cn/)!
