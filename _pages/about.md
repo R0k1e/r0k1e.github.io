@@ -17,23 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Haoyu Wang, currently a Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/), and concurrently join the 2050 Research Lab at Skywork AI as an AI Researcher. I received my Bachelor degree of Computer Science and Technology from Beijing University of Posts and Telecommunications in June 2021. My research interest focus on Agentic RL, Multi-Agent System and their applications.
+I am Haoyu Wang, currently a part-time Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/), and an AI Researcher at the 2050 Research Lab, Skywork AI. I received my Bachelor degree of Computer Science and Technology from Beijing University of Posts and Telecommunications in June 2025.
+
+I am a research engineer for **long-horizon agents**, from the models underneath to the applications on top. I post-train models end to end (data, training and evaluation) across reasoning, audio-visual generation and multimodal understanding; build the runtime that keeps agents working for hours; design evaluations for extended tasks; and ship agents into real applications, from SurveyGO to Skywork's products. My work started from long-context processing (LLM×MapReduce) and is heading toward healthcare, where agents must be observable, auditable and safe to authorize.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 LLM×MapReduce-V2 is accepted by *Journal of Computer Science and Technology (JCST)* ([DOI](https://doi.org/10.1007/s11390-026-6037-8)).
 - *2025.04*: &nbsp;🎉🎉 Release LLMxMapReduce-V2 in [arxiv](https://arxiv.org/abs/2504.05732) and [Github](https://github.com/thunlp/LLMxMapReduce), an extremely-long article generation algorithm for survey writing. You could try it in [SurveyGO](https://surveygo.modelbest.cn/)!
 
 # 📝 Publications 
 
-## ⌛️ 2025
-- <span class="badge">arxiv preprint</span>
-[LLM$\times$MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources](https://arxiv.org/abs/2504.05732)
+## ⌛️ 2026
+- <span class="badge">JCST</span>
+[LLM$\times$MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources](https://doi.org/10.1007/s11390-026-6037-8)
 **Haoyu Wang**, Yujia Fu, Zhu Zhang, Shuo Wang, Zirui Ren, Xiaorong Wang, Zhili Li, Chaoqun He, Bo An, Zhiyuan Liu, Maosong Sun
-[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/thunlp/LLMxMapReduce)
+[![](https://img.shields.io/badge/arXiv-2504.05732-b31b1b)](https://arxiv.org/abs/2504.05732)
+[![](https://img.shields.io/github/stars/thunlp/LLMxMapReduce?style=social&label=Code+Stars)](https://github.com/thunlp/LLMxMapReduce)
 
+- <span class="badge">Preprint</span>
+[Organizing Intelligence Over Time: Human–AI Collaboration as Joint Cognitive Development](https://doi.org/10.20944/preprints202609.1092.v1)
+Zhiyu Yang, **Haoyu Wang**, Hanqing Wang, Hao Yang, Xupeng Zhang
+
+## ⌛️ 2025
 - <span class="badge">ACL 2025</span>
-[LLM$\times$MapReduce: An Effective Divide-and-Conquer Framework for Long-Sequence Processing](#)
-Zihan Zhou, Chong Li, Xinyi Chen, Yu Chao, Shuo Wang, Zhili Li, **Haoyu Wang**, Rongqiao An, Qi Shi, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun
-[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/thunlp/LLMxMapReduce)
+[LLM$\times$MapReduce: Simplified Long-Sequence Processing using Large Language Models](https://aclanthology.org/2025.acl-long.1341)
+Zihan Zhou, Chong Li, Xinyi Chen, Shuo Wang, Yu Chao, Zhili Li, **Haoyu Wang**, Qi Shi, Zhixing Tan, Xu Han, Xiaodong Shi, Zhiyuan Liu, Maosong Sun
+[![](https://img.shields.io/github/stars/thunlp/LLMxMapReduce?style=social&label=Code+Stars)](https://github.com/thunlp/LLMxMapReduce)
+
+- <span class="badge">EMNLP 2025 Demo</span>
+[LLM$\times$MapReduce-V3: Enabling Interactive In-Depth Survey Generation through a MCP-Driven Hierarchically Modular Agent System](https://aclanthology.org/2025.emnlp-demos.51)
+Yu Chao, Siyu Lin, Xiaorong Wang, Zhu Zhang, Zihan Zhou, **Haoyu Wang**, Shuo Wang, Jie Zhou, Zhiyuan Liu, Maosong Sun
+[![](https://img.shields.io/github/stars/thunlp/LLMxMapReduce?style=social&label=Code+Stars)](https://github.com/thunlp/LLMxMapReduce)
 
 ## ⌛️ 2024
 - <span class="badge">ACL 2024</span>
@@ -46,7 +60,7 @@ Zihan Zhou, Chong Li, Xinyi Chen, Yu Chao, Shuo Wang, Zhili Li, **Haoyu Wang**, 
 Qingfu Zhu, Shiqi Zhou, Shuo Wang, Zhiming Zhang, **Haoyu Wang**, Qiguang Chen, Wanxiang Che
 
 - <span class="badge">arxiv preprint</span>
-[OMGEval: An Open Multilingual Generative Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2402.03669)
+[OMGEval: An Open Multilingual Generative Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2402.13524)
 Yang Liu, Meng Xu, Shuo Wang, Liner Yang, **Haoyu Wang**, Zhenghao Liu, Cunliang Kong, Yun Chen, Yang Liu, Maosong Sun, Erhong Yang
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/blcuicall/OMGEval)
 
@@ -55,12 +69,16 @@ Yang Liu, Meng Xu, Shuo Wang, Liner Yang, **Haoyu Wang**, Zhenghao Liu, Cunliang
 Bo Yan, Yang Cao, **Haoyu Wang**, Wenchuan Yang, Junping Du, Chuan Shi
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/BUPT-GAMMA/FedHGNN)
 
+# 🛠 Projects
+- **Perdura**: An agent that runs on your own computer, takes on long-running jobs and delivers results with the models you choose. Built on a process-native runtime where agents act by writing Python, it ranks second on most of WildClaw, Sentinel, ToolMaze and BEAM at significantly lower cost, and ships as a macOS app.
+- [**Signetum**](https://github.com/R0k1e/Signetum): One Skill that makes coding agents deliver reliably: decisions recorded once, changes validated against the exact source with the repository's own commands, and every delivery inspectable.
+
 # 🎖 Honors and Awards
 - *2025.05* Outstanding Graduate Award of Beijing University of Posts and Telecommunications
 - *2024.12* National Scholarship (Undergraduate) (Top 1%). 
 
 # 📖 Educations
-- *2025.08 - Present*, Ph.D., College of Computing and Data Science, Nanyang Technological University, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/).
+- *2025.08 - Present*, Part-time Ph.D., College of Computing and Data Science, Nanyang Technological University, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/).
 - *2021.09 - 2025.06*, B.S, School of Computer Science and Technology (National Demonstration Software College), Beijing University of Posts and Telecommunications.
 
 <!-- # 💬 Invited Talks
