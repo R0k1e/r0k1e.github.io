@@ -19,7 +19,7 @@ redirect_from:
 
 I am Haoyu Wang, currently a part-time Ph.D. student at College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/), and an AI Researcher at the 2050 Research Lab, Skywork AI. I received my Bachelor degree of Computer Science and Technology from Beijing University of Posts and Telecommunications in June 2025.
 
-I am a research engineer for **long-horizon agents**, from the models underneath to the applications on top. I post-train models end to end (data, training and evaluation) across reasoning, audio-visual generation and multimodal understanding; build the runtime that keeps agents working for hours; design evaluations for extended tasks; and ship agents into real applications, from SurveyGO to Skywork's products. My work started from long-context processing (LLM×MapReduce) and is heading toward healthcare, where agents must be observable, auditable and safe to authorize.
+I am a research engineer for **long-horizon agents**, from the models underneath to the applications on top. My work began with long context: LLM×MapReduce let models handle inputs too long to read at once, and grew into SurveyGO, a publicly deployed survey-writing product. I now work on the next limit, tasks too long to finish in one pass: I post-train models end to end (data, training and evaluation), build the runtime that keeps agents working for hours, design evaluations for extended tasks, and ship agents into real applications.
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 LLM×MapReduce-V2 is accepted by *Journal of Computer Science and Technology (JCST)* ([DOI](https://doi.org/10.1007/s11390-026-6037-8)).
