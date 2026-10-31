@@ -70,7 +70,7 @@ Bo Yan, Yang Cao, **Haoyu Wang**, Wenchuan Yang, Junping Du, Chuan Shi
 [![](https://img.shields.io/badge/Source%20Code-ffffff?logo=github&style=social)](https://github.com/BUPT-GAMMA/FedHGNN)
 
 # 🛠 Projects
-- **Perdura**: An agent that runs on your own computer, takes on long-running jobs and delivers results with the models you choose. Built on a process-native runtime where agents act by writing Python, it ranks second on most of WildClaw, Sentinel, ToolMaze and BEAM at significantly lower cost, and ships as a macOS app.
+- **Perdura** (creator, sole developer; open-source release in preparation): An agent that runs on your own computer, takes on long-running jobs and delivers results with the models you choose. Agents act by writing Python in a resident process, so working state lives in the process rather than the context window; durable state is committed to disk apart from the replaceable execution, so jobs resume after restarts. Against Codex, Claude Code, Hermes and OpenClaw on Sentinel, ToolMaze, BEAM and WildClaw with two models, it places in the top two in all eight settings at the lowest total cost.
 - [**Signetum**](https://github.com/R0k1e/Signetum): One Skill that makes coding agents deliver reliably: decisions recorded once, changes validated against the exact source with the repository's own commands, and every delivery inspectable.
 
 # 🎖 Honors and Awards
